@@ -13,8 +13,8 @@ console.log('index.js');
 const value = 'some value';
 // const value = 'some value';
 
-// console.log(MyMath.sum(5,10,20,30));
-// console.log(MyMath.divide(500,2));
+console.log(MyMath.sum(5,10,20,30));
+console.log(MyMath.divide(500,2));
 
 /*
   Этапы работы require
