@@ -8,6 +8,7 @@ class Component {
 
 console.log('Component.js');
 
-MyMath.divide(5,5);
+// MyMath.divide(5,5);
+// 
+// module.exports.Component = Component;
 
-module.exports.Component = Component;
